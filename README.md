@@ -1,11 +1,11 @@
 
 
-# NestJS Database Integration 
+# Research NodeJS NestJS Database Integration
 
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a sample nestJS project used to demonstrate how we can implement graphql in nestJS application.
 
 ## Installation
 
@@ -38,3 +38,9 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## Support
+
+This project is created by Nikhil Babu (nikhil.b@webandcrafts.com)
+
+
